@@ -26,14 +26,16 @@ Esses itens são funcionalidades propostas nas telas. Ainda não há aplicação
 
 | Documento | Situação |
 |---|---|
-| [PRD](docs/prd/README.md) | Espaço reservado para a versão que será fornecida pelo autor |
-| [Product Backlog](docs/product-backlog/README.md) | Espaço reservado para a versão que será fornecida pelo autor |
+| [PRD](docs/prd/PRD_Mappia.pdf) | Versão 1.0 · Setembro de 2026 · Rascunho para validação da equipe |
+| [Product Backlog](docs/product-backlog/Backlog_Voz_do_Bairro_v2_sem_cadastro.pdf) | Versão 2 · Denúncia sem cadastro obrigatório |
 | Protótipo | Telas disponíveis no Figma e exportações em `prototipo/` |
 
 ## Próximas etapas
 
-Consolidar o PRD e o Product Backlog, validar a proposta com a comunidade e definir o escopo da primeira implementação.
+Validar o PRD e o Product Backlog com a equipe e a comunidade e definir o escopo da primeira implementação.
+
+O backlog conserva o nome de trabalho **Voz do Bairro**. O PRD adota **Mappia** e explica essa mudança; os PDFs foram preservados sem alterações.
 
 ## Autoria e contexto
 
-João Vitor Regis · Projeto de extensão voltado à comunidade e tecnologia. Créditos dos integrantes e da instituição podem ser acrescentados com a documentação oficial da equipe.
+Projeto de uma equipe de quatro estudantes de Ciência da Computação da **UNINASSAU Campina Grande**, na disciplina Atividades Práticas Interdisciplinares de Extensão I, com participação de João Vitor Regis. Os nomes dos demais integrantes podem ser acrescentados pela equipe.
