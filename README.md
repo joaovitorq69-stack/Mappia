@@ -30,12 +30,13 @@ Esses itens são funcionalidades propostas nas telas. Ainda não há aplicação
 | [Product Backlog](docs/product-backlog/Backlog_Voz_do_Bairro_v2_sem_cadastro.pdf) | Versão 2 · Denúncia sem cadastro obrigatório |
 | Protótipo | Telas disponíveis no Figma e exportações em `prototipo/` |
 
-## Próximas etapas
+O Product Backlog utiliza o nome de trabalho **Voz do Bairro**. O PRD documenta a adoção do nome **Mappia**.
 
-Validar o PRD e o Product Backlog com a equipe e a comunidade e definir o escopo da primeira implementação.
+## Equipe e contexto acadêmico
 
-O backlog conserva o nome de trabalho **Voz do Bairro**. O PRD adota **Mappia** e explica essa mudança; os PDFs foram preservados sem alterações.
+Projeto de extensão de uma equipe de quatro estudantes de Ciência da Computação da **UNINASSAU Campina Grande**, na disciplina **Atividades Práticas Interdisciplinares de Extensão I**.
 
-## Autoria e contexto
-
-Projeto de uma equipe de quatro estudantes de Ciência da Computação da **UNINASSAU Campina Grande**, na disciplina Atividades Práticas Interdisciplinares de Extensão I, com participação de João Vitor Regis. Os nomes dos demais integrantes podem ser acrescentados pela equipe.
+- [João Vitor Regis](https://github.com/joaovitorregis)
+- [Ryan Cavalcante](https://github.com/Ryancscarvalho)
+- [Joalison Normandia](https://github.com/joalisonnormandia)
+- [Jhonatan Xavier](https://github.com/jhonatandevpb)
