@@ -18,7 +18,7 @@ Projeto de extensão de Ciência da Computação da UNINASSAU Campina Grande, na
 
 O Mappia é uma proposta de plataforma web para registrar problemas urbanos, consultar sua localização e acompanhar o andamento de cada ocorrência. O uso prioriza o celular. O registro pode ser enviado sem conta; o cadastro é oferecido depois, para reunir os registros do morador.
 
-O bairro das Malvinas, em Campina Grande (PB), é a área prevista para o piloto. O projeto está em fase de protótipo e planejamento. Os requisitos deste PRD descrevem o produto previsto, sem indicar que suas funções já estejam implementadas.
+O projeto está em fase de protótipo e planejamento.
 
 ## 2. Objetivos
 
@@ -208,7 +208,7 @@ O acesso público deve ser separado dos dados privados e das operações adminis
 | Tempo de envio | Tempo para concluir um registro no teste de usabilidade. | Até 2 minutos. |
 | Conclusão do fluxo | Proporção de participantes que concluem sem ajuda. | Pelo menos 80%. |
 | Satisfação | Questionário SUS após as tarefas do teste. | Pontuação de pelo menos 70. |
-| Prazo de análise | Tempo entre envio e decisão da equipe durante o piloto. | Até 48 horas como meta do piloto. |
+| Prazo de análise | Tempo entre envio e decisão da equipe em uma avaliação de operação. | Até 48 horas como meta proposta. |
 | Qualidade dos registros | Proporção de rejeitados e duplicados. | Acompanhar a evolução, sem meta numérica definida. |
 | Adoção da conta opcional | Contas criadas em relação aos registros enviados. | Medir sem meta fixa. |
 

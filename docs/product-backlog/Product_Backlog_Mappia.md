@@ -18,7 +18,7 @@ Projeto de extensão de Ciência da Computação da UNINASSAU Campina Grande, na
 
 Este backlog acompanha o [PRD do Mappia, versão 3.0](../prd/PRD_Mappia.md). Os itens descrevem requisitos planejados e seus critérios de aceitação.
 
-O produto contempla registro de problemas urbanos nas Malvinas, em Campina Grande (PB), mapa público e acompanhamento. O cadastro do morador é opcional após o envio. Equipe e comerciantes usam contas autenticadas para suas operações restritas.
+O produto contempla registro de problemas urbanos, mapa público e acompanhamento. O cadastro do morador é opcional após o envio. Equipe e comerciantes usam contas autenticadas para suas operações restritas.
 
 ## Prioridades e estimativas
 
@@ -61,7 +61,7 @@ As categorias iniciais são buraco, iluminação, lixo, vazamento, acessibilidad
 | 1.2 | Selecionar a categoria | M | 2 | O formulário oferece buraco, iluminação, lixo, vazamento, acessibilidade e sinalização; a categoria selecionada acompanha o registro. |
 | 1.3 | Descrever o problema | M | 1 | A descrição é solicitada no formulário e fica associada à ocorrência; a ausência de texto impede a confirmação do envio. |
 | 1.4 | Informar a localização por mapa ou GPS | M | 5 | O local pode ser marcado no mapa ou obtido com autorização para GPS. A recusa de GPS mantém a marcação manual disponível. |
-| 1.5 | Anexar foto do problema | M | 5 | Uma foto anexada acompanha a ocorrência. Falhas no upload são informadas antes de apresentar o envio como concluído. |
+| 1.5 | Anexar foto do problema | M | 5 | O envio pode ser concluído sem foto. Quando anexada, a foto acompanha a ocorrência. Falhas no upload são informadas antes de apresentar o envio como concluído. |
 | 1.6 | Exibir aviso de privacidade antes do envio | M | 2 | O formulário explica o uso da descrição, localização e foto e permite acessar a política de privacidade antes da confirmação. |
 | 1.7 | Confirmar o envio e gerar protocolo | M | 2 | Após persistir o registro, o sistema apresenta um protocolo único e o estado Em análise. Um envio com falha não gera confirmação de sucesso. |
 | 1.8 | Avisar sobre possível duplicata | S | 5 | Registros semelhantes próximos ao local informado são apresentados para consulta antes de criar outra ocorrência. |
@@ -73,7 +73,7 @@ As categorias iniciais são buraco, iluminação, lixo, vazamento, acessibilidad
 | ID | Item | Prioridade | Pontos | Critério de aceitação |
 | --- | --- | --- | --- | --- |
 | 2.1 | Oferecer cadastro após confirmar o registro | M | 3 | O convite de cadastro aparece depois da confirmação e mantém o protocolo visível ou acessível. |
-| 2.2 | Dispensar o cadastro | M | 1 | Agora não permite continuar sem conta; o registro e a consulta por protocolo permanecem disponíveis. |
+| 2.2 | Dispensar o cadastro | M | 1 | A opção de dispensar o cadastro permite continuar sem conta; o registro e a consulta por protocolo permanecem disponíveis. |
 | 2.3 | Criar conta e vincular o registro atual | M | 5 | A conta é criada com e-mail e senha. O registro do envio recém-concluído é vinculado à conta autenticada, sem permitir apropriar registros apenas pelo protocolo. |
 | 2.4 | Vincular registros anteriores do aparelho | S | 3 | Após autenticação, registros anteriores associados à sessão do aparelho são vinculados à conta; registros de outras sessões não são vinculados. |
 | 2.5 | Consultar registros em outro aparelho | S | 3 | Ao autenticar a mesma conta em outro aparelho, o morador acessa a lista de registros vinculados a ela. |
@@ -168,7 +168,7 @@ As categorias iniciais são buraco, iluminação, lixo, vazamento, acessibilidad
 - A conta opcional vincula o registro da sessão correta.
 - Apenas a equipe autorizada valida e altera estados; conteúdo em análise ou rejeitado fica fora do mapa público e dos indicadores.
 - O teste de usabilidade mede tempo de envio, conclusão sem ajuda e satisfação. As metas propostas são até 2 minutos, pelo menos 80% de conclusão e SUS de pelo menos 70, conforme o PRD.
-- A meta de análise em até 48 horas é avaliada no piloto; não constitui garantia de atendimento.
+- A meta proposta de análise é de até 48 horas, medida em uma avaliação de operação.
 
 ## Histórico da revisão
 
