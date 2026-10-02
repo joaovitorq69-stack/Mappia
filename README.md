@@ -2,7 +2,7 @@
 
 Projeto de extensão em fase de planejamento e protótipo.
 
-O Mappia propõe uma plataforma web para registrar e acompanhar problemas do bairro. O planejamento prevê um piloto nas Malvinas, em Campina Grande, com envio de ocorrências sem cadastro obrigatório, consulta por protocolo e moderação antes da publicação no mapa.
+O Mappia propõe uma plataforma web para registrar e acompanhar problemas do bairro, com envio de ocorrências sem cadastro obrigatório, consulta por protocolo e moderação antes da publicação no mapa.
 
 ## Funcionalidades previstas
 
