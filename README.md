@@ -29,3 +29,11 @@ Projeto de quatro estudantes de Ciência da Computação da UNINASSAU Campina Gr
 - [Ryan Cavalcante](https://github.com/Ryancscarvalho)
 - [Joalison Normandia](https://github.com/joalisonnormandia)
 - [Jhonatan Xavier](https://github.com/jhonatandevpb)
+
+## Licença
+
+A documentação e os designs de autoria da equipe Mappia estão sob [CC BY 4.0](LICENSE), incluindo o PRD, o Product Backlog e o protótipo identificado neste README.
+
+Autoria: João Vitor Regis, Ryan Cavalcante, Joalison Normandia e Jhonatan Xavier. Ao reutilizar, credite os autores, informe as alterações e inclua um link para a licença.
+
+Elementos de terceiros conservam seus próprios direitos e licenças. A licença não concede direitos sobre marcas, imagem ou dados pessoais.
